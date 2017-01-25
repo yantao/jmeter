@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="GB2312"?>
 <project name="ant-jmeter-test" default="run" basedir=".">
-    <property name="jmeter.home" value="/Applications/apache-jmeter-3.1" />
+    <property name="jmeter.home" value="/Applications/apache-jmeter-3.1------" />
     <property name="report.title" value="Mtime_interface"/>
     <property name="jmeter.result.jtl.dir" value="." />
     <property name="jmeter.result.html.dir" value="." />
